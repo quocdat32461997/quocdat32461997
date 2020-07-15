@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am a Vietnamese; I do not like Pho but I like Banh Mi, Com Tam, and Cambodian noodle soup. 
 - ✨In free time: I write blogs and articles about Deep Learning and reading research papers. I also an amateur artist.
 
-Twitter: @DatQuocNgo \n
-Medium: https://medium.com/@datngo_79115 \n
-Email: quocdat32461997@yahoo.com
+Twitter: @DatQuocNgo\
+Medium: https://medium.com/@datngo_79115\
+Email: quocdat32461997@yahoo.com\

@@ -1,4 +1,4 @@
-### Hello there, it is me, imnotfat 👋
+### Hello there, it is me, timap 👋
 
 - 🔭 I’m currently working on Big Data and Deep-Learning-based Recommendation Systems.
 - 💬 Ask me about anything, except my weight :))

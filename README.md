@@ -1,8 +1,5 @@
 ### Hello there, welcome to my imnotfat profile 👋
 
-<!--
-**quocdat32461997/quocdat32461997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - ✨ I am imnotfat who is trying to lose weight and growing Surfboard, a social media startup.
@@ -19,4 +16,3 @@ Here are some ideas to get you started:
 Twitter: @DatQuocNgo
 Medium: https://medium.com/@datngo_79115
 Email: quocdat32461997@yahoo.com
--->

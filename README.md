@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - ✨In free time: I write blogs and articles about Deep Learning and reading research papers. I also an amateur artist.
 
 Twitter: @DatQuocNgo\
-Medium: https://medium.com/@datngo_79115\
-Email: quocdat32461997@yahoo.com\
+Medium: https://medium.com/@datngo_79115 \
+Email: quocdat32461997@yahoo.com

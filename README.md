@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there, welcome to my Git profile 👋
 
 <!--
 **quocdat32461997/quocdat32461997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

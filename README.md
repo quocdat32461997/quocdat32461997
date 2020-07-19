@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Big Data and Deep-Learning-based Recommendation Systems.
 - 💬 Ask me about anything, except my weight :))
-- ⚡ Fun fact: I am a Vietnamese; I do not like Pho but I like Banh Mi, Com Tam, and Cambodian noodle soup. 
+- ⚡ Fun facts: My past dream job was a tour guide that I guided tours in Singapore befor switching to Computer Science
 - 🌱 In free time: I write blogs and articles about AI/ML, reading research papers, doing researches in Neural Engineering. I also an amateur artist.
 
 Twitter: @DatQuocNgo\

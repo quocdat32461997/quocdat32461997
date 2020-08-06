@@ -1,4 +1,4 @@
-### Hello there, it is me, timap 👋
+### Hello there, this is ti.map 👋
 
 - 🔭 I’m currently working on Big Data and Deep-Learning-based Recommendation Systems.
 - 💬 Ask me about anything, except my weight :))

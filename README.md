@@ -1,4 +1,4 @@
-### Hello there, this is ti.map 👋
+### Hello there, this is Dat Ngo 👋
 
 - 🔭 I’m currently working on Big Data and Deep-Learning-based Recommendation Systems.
 - 💬 Ask me about anything, except my weight :))

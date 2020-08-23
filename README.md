@@ -1,6 +1,6 @@
 ### Hello there, this is Dat Ngo 👋
 
-- 🔭 Currently,
+- 🔭 Currently, I am
   * **Visiting AI Researcher @deepkapha.ai**, research Deep Learning solutions to combat against Autism Spectrum Disordr (ASD)
   * **Full-Stack Intern @Surfboard**, develop Trending #hashtag feature and Recommendation Systems to help people explore nearby communities.
   * **SkoolYard TA @LiveAI**, prepare study conent, organize lectures and Q&A session, and setup Capston projects for attendees.

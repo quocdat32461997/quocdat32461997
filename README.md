@@ -2,7 +2,7 @@
 
 - 🔭 Currently, I am
   * **Visiting AI Researcher @deepkapha.ai**, research Deep Learning solutions to combat against medical issues
-  * **Full-Stack Intern @Surfboard**, develop Trending #hashtag feature and Recommendation Systems to help people explore nearby communities.
+  * **Full-Stack Intern @Surfboard**, develop Trending #hashtag feature and Recommendation Systems to help users explore nearby communities.
   * **SkoolYard TA @LiveAI**, prepare study conent, organize lectures and Q&A session, and setup Capston projects for attendees.
   * **Senior Computer Science student at UT Dallas**,  graduate in December 2020
   * **Technical Committee @DSC-UTDallas**, lead ExploreML teams to prepare content and hold workshops in classical Machine Learning and Deep Learning.

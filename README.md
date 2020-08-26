@@ -4,11 +4,11 @@
   * Developing Big Data and Recommendation Systems solution for Social Media industry
   * Researching Deep Learning and Natural Language Processing.
   * **Senior Computer Science student at UT Dallas**,  graduate in December 2020
-  * **Technical Committee @DSC-UTDallas**, lead ExploreML teams to hold AI/ML/DL workshops
+  * **Technical Committee @DSC-UTDallas**, lead ExploreML teams to hold AI/ML/DL workshops. 
 - 🖥 **Objectives**: advance in AI and Deep Learning career as Researcher and Engineer; pursue state-of-art AI and bring AI to solve real-life problems.
 - ⚡ **Fun facts**: After high school, I majored in Business Managment and was a tour guide in Singapore and Vietnam befor switching to Computer Science.
-- 🌱 **In free time**: I write AI/ML articles on Medium and drive on road trips. I visited 20/50 states and made a 1.5-day road trip on a van from LA to Seattle. 
-- 🤔 **Passon**: AI/ML/DL/CV/NLP, Entrepreneurship, Math puzzles, Traveling
+- 🌱 **In free time**: I write techn articles on Medium and drive on road trips. I visited 20/50 states and made a 1.5-day road trip on a van from LA to Seattle. 
+- 🤔 **Passon**: AI/ML/DL/CV/NLP, Entrepreneurship, Share knowledge, Math puzzles, Traveling
 - 💬 Ask me about anything, except my weight :))
 - 📋 I am open to Machine Learning job opportunities. Feel free to reach out to me for discussion.
 

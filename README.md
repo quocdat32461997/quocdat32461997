@@ -1,7 +1,7 @@
 ### Hello there, this is Dat Ngo 👋
 
 - 🔭 Currently, I am
-  * working with Big Data and Recommendation Systems in Social Media industry
+  * working with Big Data and Recommendation Systems in Social Media industry.
   * Researching Deep Learning and its applications in Natural Language Processing.
   * **Senior Computer Science student at UT Dallas**,  graduating in December 2020
   * **Technical Committee @DSC-UTDallas**, lead explore-ml teams to hold AI/ML/DL workshops. \

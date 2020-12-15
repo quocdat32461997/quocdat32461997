@@ -1,10 +1,10 @@
 ### Hi there, this is datishere 👋
 
 - 🔭 Currently, I am
-  * researching Deep Learning and its applications in Natural Language Processing.
+  * am interested in research of Unsupervised Learnings and its applications in NLP & CV.
   * **Technical Committee @DSC-UTDallas**, lead explore-ml teams to hold AI/ML/DL workshops. \
   
-- 🖥  **Objectives**: I want to pursue Applied AI research and engineering careers. AI is meanigless if not beneficial at all.
+- 🖥  **Objectives**: I want to pursue AI research career.
 - ⚡ **Fun facts**: I love watching Korean Dramas and TV-shows (Running Man).
 - 🌱 **In free time**: I write tech articles on Medium and jump on road trips. I visited 20/50 states.
 - 💬 Ask me about anything, except my weight :))

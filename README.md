@@ -1,8 +1,9 @@
 ### Hi there, this is datishere 👋
 
 - 🔭 Currently, I am
-  * am interested in research of Unsupervised Learnings and its applications in NLP & CV.
-  * **Technical Committee @DSC-UTDallas**, lead explore-ml teams to hold AI/ML/DL workshops. \
+  * am interested in Unsupervised Learnings and its applications in NLP & CV.
+  * Technical Coordinator at Artificial Intelligent Society
+  * Technical Committee @DSC-UTDallas, lead explore-ml teams to hold AI/ML/DL workshops. \
   
 - 🖥  **Objectives**: I want to pursue AI research career.
 - ⚡ **Fun facts**: I love watching Korean Dramas and TV-shows (Running Man).

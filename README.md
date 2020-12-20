@@ -2,7 +2,7 @@
 
 - 🔭 Currently, I am
   * am interested in Unsupervised Learnings and its applications in NLP & CV.
-  * Master student in Computer Science - Intelligent System at Uni. of Texas at Dallas, Jan 2021 - May 2022 \
+  * Master student in Computer Science - Intelligent System at Uni. of Texas at Dallas, Jan 2021 - May 2022
   
 - 🖥  **Objectives**: I want to pursue AI research career.
 - ⚡ **Fun facts**: I love watching Korean Dramas and TV-shows (Running Man).

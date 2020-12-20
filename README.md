@@ -2,8 +2,7 @@
 
 - 🔭 Currently, I am
   * am interested in Unsupervised Learnings and its applications in NLP & CV.
-  * Technical Coordinator at Artificial Intelligent Society
-  * Technical Committee @DSC-UTDallas, lead explore-ml teams to hold AI/ML/DL workshops. \
+  * Master student in Computer Science - Intelligent System \
   
 - 🖥  **Objectives**: I want to pursue AI research career.
 - ⚡ **Fun facts**: I love watching Korean Dramas and TV-shows (Running Man).

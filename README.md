@@ -10,7 +10,7 @@
 
 ![](https://img.shields.io/badge/-Python-informational?logo=Python&color=9F9393)
 ![](https://img.shields.io/badge/-TensorFlow-informational?logo=TensorFlow&color=F2EFEF)
-![](https://img.shields.io/badge/-PyTorch-informational?logo=AWS&color=FFCCCC)
+![](https://img.shields.io/badge/-AWS-informational?logo=AWS&color=FFCCCC)
 
 LinkedIn: https://www.linkedin.com/in/dat-ngo-ab8b20148/ \
 Twitter: [@DatQuocNgo](https://twitter.com/DatQuocNgo) \

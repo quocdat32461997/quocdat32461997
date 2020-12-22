@@ -6,8 +6,6 @@
  
 ![quocdat32461997's github stats](https://github-readme-stats.vercel.app/api?username=quocdat32461997&show_icons=true&theme=radical&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quocdat32461997)](https://github.com/anuraghazra/github-readme-stats)
-
 ![](https://img.shields.io/badge/-Python-informational?logo=Python&color=9F9393)
 ![](https://img.shields.io/badge/-TensorFlow-informational?logo=TensorFlow&color=F2EFEF)
 ![](https://img.shields.io/badge/-AWS-informational?logo=AWS&color=FFCCCC)

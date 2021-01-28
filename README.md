@@ -1,8 +1,9 @@
 ### Hi there, this is datishere 👋
 
-🔭 Currently, I
- * am a Master student in Computer Science - Intelligent System at Uni. of Texas at Dallas, graduation exp. May 2022
- * am super interested in Deep Learning & NLP (language understanding, text generation), and Unsupervised Learning.
+🔭 Currently,
+ * I am a Master student in Computer Science - Intelligent System at Uni. of Texas at Dallas, graduation exp. May 2022
+ * My research interests: Deep Learning, Language Modeling, and Unsupervised Learning.
+ * Research topics: Machine Translation and its application for Grammatical Error Correction (GEC) and Paraphrasing
  
 ![quocdat32461997's github stats](https://github-readme-stats.vercel.app/api?username=quocdat32461997&show_icons=true&theme=radical&count_private=true)
 

@@ -2,9 +2,7 @@
 
 🔭 Currently, I
  * am a Master student in Computer Science - Intelligent System at Uni. of Texas at Dallas, graduation exp. May 2022
- * am super interested in Deep Learning & NLP (language understanding, text generation), and \
- 
- Unsupervised Learning for limited data
+ * am super interested in Deep Learning & NLP (language understanding, text generation), and \  Unsupervised Learning for limited data
  
 ![quocdat32461997's github stats](https://github-readme-stats.vercel.app/api?username=quocdat32461997&show_icons=true&theme=radical&count_private=true)
 

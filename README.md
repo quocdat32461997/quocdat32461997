@@ -2,7 +2,7 @@
 
 🔭 Currently,
  * I am a Master student in Computer Science - Intelligent System at Uni. of Texas at Dallas, graduation exp. May 2022
- * My research interests: Deep Learning, Language Modeling, and Unsupervised Learning.
+ * My research interests: Unsupervised Learning, NLP/NLU/NLG, and RecSys.
  * Research topics: Question Answering, Machine Translation and its application for Grammatical Error Correction (GEC)
  
 ![quocdat32461997's github stats](https://github-readme-stats.vercel.app/api?username=quocdat32461997&show_icons=true&theme=radical&count_private=true)

@@ -4,8 +4,8 @@
  - I am a Master student in Computer Science - Intelligent System at Uni. of Texas at Dallas, graduation exp. May 2022
  - My research interests: Unsupervised Learning, NLP/NLU/NLG, and RecSys.
  - Current projects:
-  -- Emotion Recognition in Comic Scenes
-  -- ez-recipe - NLG for recipe
+   - Emotion Recognition in Comic Scenes
+   - ez-recipe - NLG for recipe
  
 ![quocdat32461997's github stats](https://github-readme-stats.vercel.app/api?username=quocdat32461997&show_icons=true&theme=radical&count_private=true)
 

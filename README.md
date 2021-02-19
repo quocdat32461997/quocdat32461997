@@ -19,3 +19,4 @@ Website: https://quocdat32461997.github.io/ \
 Medium: https://medium.com/@datngo_79115 \
 Email: quocdat32461997@yahoo.com \
 Resume: [here](https://docs.google.com/document/d/1CF6nI70QY4MqLXdwOUBigTZUhcnYS-l9/edit?usp=drive_web&ouid=103238216527784296028&rtpof=true)
+Portfolio: [here](https://github.com/quocdat32461997/machine-learning-portfolio)

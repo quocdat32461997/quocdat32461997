@@ -4,6 +4,7 @@
  - I am a Master student in Computer Science - Intelligent System at Uni. of Texas at Dallas, graduation exp. May 2022
  - Area of interests: Unsupervised Learning, NLP/NLU/NLG, Graph NN, RecSys, and Big Data.
  - Current projects:
+   - AI Mentor at AIS to share AI knowledge and guide my mentees on NLP projects
    - [Emotion Recognition in Comic Scenes](https://github.com/aisutd/emorecom)
    - [ez-recipe - NLG for recipe](https://github.com/dosnt/ez-recipe)
  

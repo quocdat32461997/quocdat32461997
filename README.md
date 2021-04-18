@@ -13,7 +13,7 @@
 ![](https://img.shields.io/badge/-TensorFlow-informational?logo=TensorFlow&color=F2EFEF)
 ![](https://img.shields.io/badge/-AWS-informational?logo=AWS&color=FFCCCC)
 
-LinkedIn: https://www.linkedin.com/in/dat-ngo-ab8b20148/ \
+LinkedIn: https://www.linkedin.com/in/datquocngo/ \
 Twitter: [@DatQuocNgo](https://twitter.com/DatQuocNgo) \
 Website: https://quocdat32461997.github.io/ \
 Medium: https://datngo-79115.medium.com \

@@ -3,9 +3,9 @@
 🔭 Currently,
  - I am a Master student in Computer Science - Intelligent System at Uni. of Texas at Dallas, graduation exp. May 2022
  - Primary areas of interest: NLP/NLU/NLG, Un/self-supervised Learning, Graph NN, text/language data.
- - Current projects:
+ - Recent activities:
+   - AI Research Intern at Bibxy Team, Samsung Research America
    - AI Mentor at AIS to share AI knowledge and guide my mentees on NLP projects
-   - [ez-recipe - NLG for recipe](https://github.com/dosnt/ez-recipe)
  
 ![quocdat32461997's github stats](https://github-readme-stats.vercel.app/api?username=quocdat32461997&show_icons=true&theme=radical&count_private=true)
 

@@ -15,7 +15,7 @@
 
 LinkedIn: https://www.linkedin.com/in/datquocngo/ \
 Twitter: [@DatQuocNgo](https://twitter.com/DatQuocNgo) \
-Website: [datqngo.me](datqngo.me) \
+Website: [datqngo.me](http://datqngo.me) \
 Medium: https://datngo-79115.medium.com \
 Email: [dat.ngo3246@gmail.com](mailto:dat.ngo3246@gmail.com) \
 Resume: [here](https://docs.google.com/document/d/1YCcqCXW5z3EjiIBQg1x4XaIw8mvjkniP/edit?usp=sharing&ouid=116313092587135272011&rtpof=true&sd=true) \

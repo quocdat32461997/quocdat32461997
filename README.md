@@ -5,7 +5,7 @@
  - Primary areas of interest: NLP/NLU/NLG, Graph NN, text/language data.
  - Recent activities:
    - AI Research Intern at Bibxy Team, Samsung Research America
-   - AI Mentor at AIS to share AI knowledge and guide my mentees on NLP projects
+   - AI Mentor at AIS - mentor NLP & Deep Learning projects [website](https://aisutd.org/)
  
 ![quocdat32461997's github stats](https://github-readme-stats.vercel.app/api?username=quocdat32461997&show_icons=true&theme=radical&count_private=true)
 

@@ -6,6 +6,7 @@
  - Recent activities:
    - AI Research Intern at Bibxy Team, Samsung Research America
    - AI Mentor at AIS - mentor NLP & Deep Learning projects [website](https://aisutd.org/)
+   - Doing the Master thesis @OuyangLab
  
 ![quocdat32461997's github stats](https://github-readme-stats.vercel.app/api?username=quocdat32461997&show_icons=true&theme=radical&count_private=true)
 

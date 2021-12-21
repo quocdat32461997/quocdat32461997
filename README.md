@@ -1,8 +1,8 @@
-### Hi there, this is datishere 👋
+### 👋, this is datqngoo
 
 🔭 Currently,
  - I am a Master student in Computer Science - Intelligent System at Uni. of Texas at Dallas, graduation exp. May 2022
- - Primary areas of interest: NLP/NLU/NLG, Graph NN, text/language data.
+ - Primary areas of interest: NLP/NLU/NLG, Graph NN, language/graph data.
  - Recent activities:
    - SWE Intern at @facebook, Summer'22
    - AI Research Intern @Bibxy, Samsung Research America, Summer'21

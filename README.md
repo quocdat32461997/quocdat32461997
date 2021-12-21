@@ -4,9 +4,10 @@
  - I am a Master student in Computer Science - Intelligent System at Uni. of Texas at Dallas, graduation exp. May 2022
  - Primary areas of interest: NLP/NLU/NLG, Graph NN, text/language data.
  - Recent activities:
-   - AI Research Intern at Bibxy Team, Samsung Research America
-   - AI Mentor at AIS - mentor NLP & Deep Learning projects [website](https://aisutd.org/)
-   - Doing the Master thesis @OuyangLab
+   - SWE Intern at @facebook, Summer'22
+   - AI Research Intern @Bibxy, Samsung Research America, Summer'21
+   - AI Mentor @aisutd - mentor NLP & Deep Learning projects [website](https://aisutd.org/)
+   - Graduate Research Assistant @OuyangLab
  
 ![quocdat32461997's github stats](https://github-readme-stats.vercel.app/api?username=quocdat32461997&show_icons=true&theme=radical&count_private=true)
 

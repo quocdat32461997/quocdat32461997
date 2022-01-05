@@ -5,7 +5,7 @@
  - Primary areas of interest: NLP/NLU/NLG, Graph NN, language/graph data.
  - Recent activities:
    - SWE Intern at @facebook, Summer'22
-   - AI Research Intern @Bibxy, Samsung Research America, Summer'21
+   - AI Research Intern @samsung-research-america, Summer'21
    - AI Mentor @aisutd - mentor NLP & Deep Learning projects [website](https://aisutd.org/)
    - Graduate Research Assistant @OuyangLab
  

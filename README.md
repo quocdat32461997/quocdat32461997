@@ -21,6 +21,6 @@
 LinkedIn: [datquocngo](https://www.linkedin.com/in/datquocngo/) \
 Twitter: [@DatQuocNgo](https://twitter.com/DatQuocNgo) \
 Website: [datqngo.me](http://datqngo.me) \
-Medium: [datngo-blog](https://datngo-79115.medium.com)\
+Medium: [datngo-blog](datqngo.medium.com)\
 Email: [dat.ngo3246@gmail.com](mailto:dat.ngo3246@gmail.com) \
 Portfolio: [here](https://kind-ginger-256.notion.site/machine-learning-portfolio-448355abb41b4b728989b5249f1dffa5)

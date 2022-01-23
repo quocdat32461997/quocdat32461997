@@ -9,7 +9,7 @@
    - AI Research Intern @samsung-research-america, Summer'21
    - AI Mentor @aisutd - mentor NLP & Deep Learning projects, [website](https://aisutd.org/)
    - Graduate Research Assistant @OuyangLab
- - [Reading list](https://www.notion.so/3a9dce5fd7484b40b2b2878ae584c0ff?v=7d1c09555831483c8bc901c2f7cf064a)
+ - [Reading list](https://kind-ginger-256.notion.site/3a9dce5fd7484b40b2b2878ae584c0ff?v=7d1c09555831483c8bc901c2f7cf064a)
  
 ![quocdat32461997's github stats](https://github-readme-stats.vercel.app/api?username=quocdat32461997&show_icons=true&theme=radical&count_private=true)
 

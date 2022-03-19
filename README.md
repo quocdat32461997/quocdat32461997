@@ -11,7 +11,7 @@
    - Graduate Research Assistant @OuyangLab
  - Others:
    - [Reading list](https://kind-ginger-256.notion.site/3a9dce5fd7484b40b2b2878ae584c0ff?v=7d1c09555831483c8bc901c2f7cf064a)
-   - [Hyper-param parser in torch models](https://gist.github.com/quocdat32461997/0c4ca071bb919dc3272b4a0e5875c2b0)
+   - [Hyper-param parser in torch models](https://github.com/quocdat32461997/configs/tree/main)
  
 ![quocdat32461997's github stats](https://github-readme-stats.vercel.app/api?username=quocdat32461997&show_icons=true&theme=radical&count_private=true)
 

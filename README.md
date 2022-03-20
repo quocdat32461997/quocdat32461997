@@ -1,4 +1,4 @@
-### 👋, this is datqngoo
+### 👋,
 
 🔭 Currently,
  - I am a Master student in Computer Science - Intelligent System at Uni. of Texas at Dallas, graduation exp. May 2022

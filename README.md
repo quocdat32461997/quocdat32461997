@@ -6,9 +6,9 @@
  - Recent activities:
    - SWE Intern @facebook, Summer'22
    - ML Engineer Intern @7-eleven, Spring'22 - worked on graph-based basket recommendation
-   - AI Research Intern @samsung-research-america, Summer'21
-   - AI Mentor @aisutd - mentor NLP & Deep Learning projects, [website](https://aisutd.org/)
+   - AI Research Intern @samsung-research-america, Summer'21 - Bixby Lab
    - Graduate Research Assistant @OuyangLab
+   - AI Mentor @aisutd, '21 - mentor NLP & Deep Learning projects, [website](https://aisutd.org/)
  - Others:
    - [Reading list](https://kind-ginger-256.notion.site/3a9dce5fd7484b40b2b2878ae584c0ff?v=7d1c09555831483c8bc901c2f7cf064a)
    - [Hyper-param parser in torch models](https://github.com/quocdat32461997/configs/tree/main)

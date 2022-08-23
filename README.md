@@ -1,5 +1,4 @@
-### 👋,
-
+###
 🔭 Currently,
  - I am a Master student in Computer Science - Intelligent System at Uni. of Texas at Dallas, graduation exp. May 2022
  - Primary areas of interest: NLP/NLU/NLG, Graph NN, language/graph data.

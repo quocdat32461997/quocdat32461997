@@ -11,6 +11,7 @@
  - Others:
    - [Reading list](https://kind-ginger-256.notion.site/3a9dce5fd7484b40b2b2878ae584c0ff?v=7d1c09555831483c8bc901c2f7cf064a)
    - [Hyper-param parser in torch models](https://github.com/quocdat32461997/configs/tree/main)
+   - [DL env configs](https://github.com/quocdat32461997/folders/blob/master/env_config.yml)
  
 ![quocdat32461997's github stats](https://github-readme-stats.vercel.app/api?username=quocdat32461997&show_icons=true&theme=radical&count_private=true)
 

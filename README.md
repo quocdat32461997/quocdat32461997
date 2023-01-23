@@ -3,6 +3,7 @@
  - I am a Master student in Computer Science - Intelligent System at Uni. of Texas at Dallas, graduation exp. May 2022
  - Primary areas of interest: NLP/NLU/NLG, Graph NN, language/graph data, Deep Learning for chemistry and biology.
  - Recent activities:
+   - Data Scientist @7-eleven - RecSys
    - SWE Intern @facebook, Summer'22 - Prompt Engineering
    - ML Engineer Intern @7-eleven, Spring'22 - Basket Recommendation
    - AI Research Intern @samsung-research-america, Summer'21 - Semantic Role Labeling
